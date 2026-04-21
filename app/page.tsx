@@ -46,7 +46,7 @@ export default function HomePage() {
           <div className="flex justify-center">
             <div className="w-64 h-80 bg-zinc-900 rounded-2xl border border-zinc-800 relative overflow-hidden">
               <Image
-                src="/temp-image.jpg"
+                src="/profile.jpg"
                 alt="Subham's Portrait"
                 fill
                 priority
